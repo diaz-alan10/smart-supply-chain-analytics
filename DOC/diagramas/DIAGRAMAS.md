@@ -38,7 +38,7 @@ erDiagram
     }
 
     olist_order_items_dataset {
-        string order_id PK_FK
+        string order_id PK, FK
         int order_item_id PK
         string product_id FK
         string seller_id FK
@@ -48,7 +48,7 @@ erDiagram
     }
 
     olist_order_payments_dataset {
-        string order_id PK_FK
+        string order_id PK, FK
         int payment_sequential PK
         string payment_type
         int payment_installments
@@ -201,7 +201,7 @@ erDiagram
     }
 
     fact_ventas {
-        string order_id PK_FK
+        string order_id PK, FK
         int order_item_id PK
         string customer_id FK
         string product_id FK
