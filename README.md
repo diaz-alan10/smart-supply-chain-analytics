@@ -159,7 +159,7 @@ Objetivos:
 * Generar alertas tempranas.
 * Apoyar estrategias de reabastecimiento.
 
-**[INSERTAR AQUÍ GRÁFICAS DE PRONÓSTICO Y RESULTADOS DEL MODELO]**
+![Pronóstico demanda](img/Secc3_1_pronostico_ventas.png)
 
 ---
 
@@ -173,7 +173,7 @@ Objetivos:
 * Mejorar la experiencia del cliente.
 * Facilitar acciones preventivas.
 
-**[INSERTAR AQUÍ MATRICES DE CONFUSIÓN O MÉTRICAS DEL MODELO]**
+![Predicción retrasos](img/Secc2_1_metricas.png)
 
 ---
 
@@ -191,11 +191,15 @@ Indicadores destacados:
 
 ### Capturas del dashboard
 
-**[INSERTAR AQUÍ CAPTURA GENERAL DEL DASHBOARD]**
+![Dashboard](img/Dashboard1.png)
 
-**[INSERTAR AQUÍ CAPTURA DE KPIs PRINCIPALES]**
+![Dashboard 2](img/Dashboard2.png)
 
-**[INSERTAR AQUÍ CAPTURA DE VISUALIZACIONES RELEVANTES]**
+![Dashboard 3](img/Dashboard3.png)
+
+![Dashboard 4](img/Dashboard4.png)
+
+![Dashboard 5](img/Dashboard5.png)
 
 ---
 
@@ -205,9 +209,11 @@ El proyecto incorpora una aplicación desarrollada en Streamlit que permite cons
 
 ### Capturas de la aplicación
 
-**[INSERTAR AQUÍ CAPTURA DE LA PANTALLA PRINCIPAL]**
-
-**[INSERTAR AQUÍ CAPTURA DE CONSULTAS O RESPUESTAS DEL AGENTE]**
+![App](img/App_1.png)
+![App 2](img/App_2.png)
+![Asistente inteligente](img/Asistente_1.png)
+![Asistente inteligente 2](img/Asistente_2.png)
+![Asistente inteligente 3](img/Asistente_3.png)
 
 ---
 
