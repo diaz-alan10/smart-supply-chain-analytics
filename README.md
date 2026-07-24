@@ -52,7 +52,7 @@ La solución fue diseñada bajo una arquitectura orientada al procesamiento anal
 
 ### Diagrama de arquitectura
 
-**[INSERTAR AQUÍ IMAGEN DE LA ARQUITECTURA GENERAL DEL PROYECTO]**
+![Diagrama OLTP](img/Diagrama_OLTP.png)
 
 ---
 
@@ -126,7 +126,7 @@ Actividades realizadas:
 
 Se diseñó un Data Warehouse basado en esquema estrella para optimizar las consultas analíticas y la generación de indicadores.
 
-**[INSERTAR AQUÍ IMAGEN DEL ESQUEMA ESTRELLA O DATA WAREHOUSE]**
+![Diagrama Data Warehouse](img/Diagrama_estrella.png)
 
 ---
 
